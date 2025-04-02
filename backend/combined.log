@@ -10176,3 +10176,6 @@
 {"level":"info","message":"Connected to MongoDB","timestamp":"2025-02-28T07:15:43.920Z"}
 {"level":"info","message":"Server running on port 3001","timestamp":"2025-04-02T16:16:54.021Z"}
 {"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.d6dwb.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.d6dwb.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.d6dwb.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:275:17)","syscall":"querySrv","timestamp":"2025-04-02T16:16:54.035Z"}
+{"level":"info","message":"Server running on port 3001","timestamp":"2025-04-02T16:19:34.711Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-02T16:19:37.591Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-04-02T16:19:37.592Z"}
